@@ -13,7 +13,7 @@
       "name": "SAGEUSD",
       "symbol": "SAGEUSD",
       "decimals": 6,
-      "logoURI": "https://github.com/",
+      "logoURI": "https://github.com/sageforall/tokenlist/blob/main/sageusd-logo.png",
       "extensions": {
         "website": "https://brale.xyz/stablecoins/SAGEUSD"
       },
@@ -24,8 +24,8 @@
       "address": "F6MuggYmpdijnFxKihr3RQuDUp3FZgHBxqfFiiWNnUvR",
       "name": "SAGEUSD",
       "symbol": "SAGEUSD",
-      "decimals": 6,
-      "logoURI": "https://github.com/",
+      "decimals": 9,
+      "logoURI": "https://github.com/sageforall/tokenlist/blob/main/sageusd-logo.png",
       "extensions": {
         "website": "https://brale.xyz/stablecoins/SAGEUSD"
       },
