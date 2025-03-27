@@ -1,0 +1,35 @@
+{
+  "name": "SAGE Token List",
+  "timestamp": "2025-03-27T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x131409B31bF446737dD04353D43DACada544b6fA",
+      "name": "SAGEUSD",
+      "symbol": "SAGEUSD",
+      "decimals": 6,
+      "logoURI": "https://github.com/",
+      "extensions": {
+        "website": "https://brale.xyz/stablecoins/SAGEUSD"
+      },
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": "Mainnet Beta - 5eykt4UsFv8P8NJdTREpY1vzqKqZKvdpKuc147dw2N9d",
+      "address": "F6MuggYmpdijnFxKihr3RQuDUp3FZgHBxqfFiiWNnUvR",
+      "name": "SAGEUSD",
+      "symbol": "SAGEUSD",
+      "decimals": 6,
+      "logoURI": "https://github.com/",
+      "extensions": {
+        "website": "https://brale.xyz/stablecoins/SAGEUSD"
+      },
+      "tags": ["stablecoin"]
+    }
+  ]
+}
