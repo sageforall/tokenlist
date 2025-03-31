@@ -8,7 +8,7 @@
   },
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": "eip155:1",
       "address": "0x131409B31bF446737dD04353D43DACada544b6fA",
       "name": "SAGEUSD",
       "symbol": "SAGEUSD",
@@ -20,7 +20,7 @@
       "tags": ["stablecoin"]
     },
     {
-      "chainId": "Mainnet Beta - 5eykt4UsFv8P8NJdTREpY1vzqKqZKvdpKuc147dw2N9d",
+      "chainId": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "F6MuggYmpdijnFxKihr3RQuDUp3FZgHBxqfFiiWNnUvR",
       "name": "SAGEUSD",
       "symbol": "SAGEUSD",
